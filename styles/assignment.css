@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+.header {
+    font-style: normal;
+}
+.banner{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    text-align: right;
+}
+.banner-title{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    margin-bottom: 24px;
+    color: #FFFFFF;
+}
+.banner-dis{
+    color: #FFFFFF;  
+    margin-bottom: 32px; 
+    line-height: 26px; 
+    width: 520px;
+    height: 76px;
+    font-style: normal;
+    font-family: 'Work Sans';
+}
+.btn-primary{
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    font-size: 20px;
+    right: auto;
+    font-family: 'Work Sans';
+}
