@@ -55,7 +55,7 @@
     font-family: 'Open Sans', sans-serif;
     width: 416px;
     height: 400px;
-    margin-top: 370px;
+    margin-top: 230px;
     margin-left: 70px;
 }
 .main-title{
@@ -73,7 +73,10 @@
     margin-top: 16px;
     font-style: normal;
 }
-
+.tick {
+    color: green;
+    font-size: 24px;   
+}
 .plan{
     font-family: 'Open Sans', sans-serif;
     
@@ -95,6 +98,7 @@
     left: 230px;
     top: 1889px;
     padding: 50px;
+    text-align: center;
 }
 .middle-section{
     background-image: url(../images/watch.png);
@@ -126,7 +130,8 @@
     height: 577px;
     top: 2652px;
     background: #151414;
-    color: white;
+    
+    font: 16px;
 }
 .future{
     color: white;
@@ -149,13 +154,14 @@ input{
     border-radius: 8px;
     text-align: center;
     font-size: large;
+    color: white;
 
 }
 .btn2{
     width: 325px;
     font-style: normal;
     background-color: #151414;
-    color:  #F3F3F3;
+    color: white;
     text-align: left;
-    border-radius: 10px;
+    border-radius: 8px;
 }
